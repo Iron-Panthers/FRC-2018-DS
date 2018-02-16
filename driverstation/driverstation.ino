@@ -19,3 +19,4 @@ void loop() {
   joystick.setButton(0, millis() % 1000 > 500);  // currently to test output
   joystick.setButton(1, buttonA);
 }
+
